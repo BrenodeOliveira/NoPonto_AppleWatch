@@ -2,7 +2,7 @@
 //  ExtensionDelegate.swift
 //  NoPonto WatchKit Extension
 //
-//  Created by Usuário Convidado on 10/12/22.
+//  Created by Breno Rocha on 10/12/22.
 //
 
 import WatchKit
